@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/itadmin/Portal-Build/PayswiffAutomation"/>
 			<item value="/home/itadmin/Desktop/sai/mystuff/final_PortalBuild/PayswiffAutomation"/>
 		</list>
 		<list key="projectNameTemplate">
