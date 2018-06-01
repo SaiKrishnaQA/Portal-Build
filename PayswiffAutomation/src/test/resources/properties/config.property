@@ -1,0 +1,64 @@
+browser_name=chrome
+
+URL=http://192.168.1.236:8765/pPortal/login
+
+RemoteExecution=true
+
+
+//User Cred
+
+userName= ft_partner@ftcash.in
+rc_partner@realcash.in
+zaggle_demo_partner1@zaggle.com
+spice_money2@gmaiil.com
+
+
+
+
+zaggle_demo_partner1@zaggle.com
+spice_money2@gmaiil.com
+
+
+Password= Paynear@123
+
+Act_userName= ftcash.activationmanager@ftcash.com
+Act_Password= Paynear@123
+
+
+
+
+
+
+
+//Bulk Upload Details
+
+package= G3 POS Plan
+Paynear One mPay
+
+Andhra Bank
+
+
+
+//Device Selection while assigning the device to the merchant
+Device_Sel= QPOS
+NEXGO
+
+
+
+Bank_DP= Axis-Prizm
+RBL-Prizm
+
+
+
+
+
+
+Processor= Axis
+RBL
+
+
+
+
+
+PayMode= POS
+cash@POS

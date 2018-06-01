@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="Failed suite [sample]" parallel="tests">
+  <test name="sampleClass(failed)" parallel="tests">
+    <classes>
+      <class name="com.Paynear.Portal.portal_MIDDeactive2">
+        <methods>
+          <include name="Device_Assign"/>
+        </methods>
+      </class> <!-- com.Paynear.Portal.portal_MIDDeactive2 -->
+      <class name="com.Paynear.Portal.Portal_login">
+        <methods>
+          <include name="setupSuite"/>
+          <include name="endSuite"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- com.Paynear.Portal.Portal_login -->
+    </classes>
+  </test> <!-- sampleClass(failed) -->
+</suite> <!-- Failed suite [sample] -->

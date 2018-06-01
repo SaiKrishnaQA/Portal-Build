@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sample" duration-ms="111897" started-at="2018-06-01T07:48:45Z" finished-at="2018-06-01T07:50:37Z">
+    <groups>
+    </groups>
+    <test name="sampleClass" duration-ms="111897" started-at="2018-06-01T07:48:45Z" finished-at="2018-06-01T07:50:37Z">
+      <class name="KalScripts.Merchant_Validation">
+        <test-method status="PASS" signature="MerchantPage_Validation()[pri:0, instance:KalScripts.Merchant_Validation@5a8806ef]" name="MerchantPage_Validation" duration-ms="16665" started-at="2018-06-01T13:19:39Z" finished-at="2018-06-01T13:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MerchantPage_Validation -->
+      </class> <!-- KalScripts.Merchant_Validation -->
+      <class name="com.Paynear.Portal.Portal_login">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:com.Paynear.Portal.Portal_login@7c29daf3]" name="setupSuite" is-config="true" duration-ms="4757" started-at="2018-06-01T13:18:45Z" finished-at="2018-06-01T13:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:com.Paynear.Portal.Portal_login@7c29daf3]" name="testMethod" duration-ms="22904" started-at="2018-06-01T13:18:50Z" finished-at="2018-06-01T13:19:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.Paynear.Portal.Portal_login@7c29daf3]" name="endReport" is-config="true" duration-ms="4" started-at="2018-06-01T13:19:13Z" finished-at="2018-06-01T13:19:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testMethod status=SUCCESS method=Portal_login.testMethod()[pri:0, instance:com.Paynear.Portal.Portal_login@7c29daf3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endSuite()[pri:0, instance:com.Paynear.Portal.Portal_login@7c29daf3]" name="endSuite" is-config="true" duration-ms="182" started-at="2018-06-01T13:20:37Z" finished-at="2018-06-01T13:20:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSuite -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Paynear.Portal.Portal_login@7c29daf3]" name="tearDown" is-config="true" duration-ms="69" started-at="2018-06-01T13:20:37Z" finished-at="2018-06-01T13:20:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Paynear.Portal.Portal_login -->
+      <class name="KalScripts.portal_Device_Validation">
+        <test-method status="PASS" signature="Reports()[pri:0, instance:KalScripts.portal_Device_Validation@5e853265]" name="Reports" duration-ms="22067" started-at="2018-06-01T13:20:15Z" finished-at="2018-06-01T13:20:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reports -->
+      </class> <!-- KalScripts.portal_Device_Validation -->
+      <class name="com.Portal_validation.Portal_MyAccount_Validation">
+        <test-method status="PASS" signature="MyAccount_UI()[pri:0, instance:com.Portal_validation.Portal_MyAccount_Validation@9660f4e]" name="MyAccount_UI" duration-ms="26070" started-at="2018-06-01T13:19:13Z" finished-at="2018-06-01T13:19:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyAccount_UI -->
+      </class> <!-- com.Portal_validation.Portal_MyAccount_Validation -->
+      <class name="KalScripts.Portal_Payment_Validation">
+        <test-method status="PASS" signature="Reports()[pri:0, instance:KalScripts.Portal_Payment_Validation@6c49835d]" name="Reports" duration-ms="19161" started-at="2018-06-01T13:19:56Z" finished-at="2018-06-01T13:20:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reports -->
+      </class> <!-- KalScripts.Portal_Payment_Validation -->
+    </test> <!-- sampleClass -->
+  </suite> <!-- sample -->
+</testng-results>

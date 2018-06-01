@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sample" parallel="tests" thread-count="4">
+<test  name="sampleClass">
+
+
+
+<classes>
+
+<class name="com.Paynear.Portal.Portal_login"/>
+<class name="com.Paynear.Portal.Portal_BulkMerchantUpload"/>
+
+<class name="com.FTCash.Panel.Fetch_MerchDetails"/>
+<class name="com.PaySwiff.portalCases.Portal_MerchantLive"/>
+<class name="com.PaySwiff.portalCases.Portal_Device_Assign"/>
+
+<class name="com.Paynear.Portal.Portal_Device_Assign2"/>
+<class name="com.Paynear.Portal.Portal_Device_Assign3"/>
+<class name="com.Paynear.Portal.portal_MIDIncrmnt"/>
+<class name="com.Paynear.Portal.portal_MIDIncrmnt2"/>
+<class name="com.Paynear.Portal.portal_MIDIncrmnt3"/>
+<class name="com.Paynear.Portal.portal_MIDDeactive"/>
+<class name="com.Paynear.Portal.portal_MIDDeactive2"/>
+<class name="com.PaySwiff.portalCases.Portal_Device_DeAssign"/>
+<class name="com.PaySwiff.portalCases.Portal_Device_DeAssign2"/>
+<class name="com.PaySwiff.portalCases.Portal_Device_DeAssign3"/>
+
+<class name="com.Paynear.Portal.portal_MIDDeactive3"/>
+<class name="com.Paynear.Portal.portal_MIDDeactive4"/>
+
+
+
+ 
+
+<!-- 
+
+
+
+
+
+
+
+<class name="com.partnerPortal.PageValidations.Test_Sel"/>
+
+<class name="com.Paynear.Portal.portal_final_AutoConfig"/>
+
+<class name="com.PaySwiff.portalCases.PortalMidTid_Sce"/>
+<class name="com.Paynear.Portal.Portal_Mid_TIDAssign"/>
+<class name="com.Paynear.Portal.Portal_Mid_TIDApproval"/>
+<class name="com.Paynear.Portal.portal_MerchantDetails"/>
+<class name="com.Paynear.Portal.Portal_AutoConfig"/>
+<class name="com.Portal_validation.Portal_HeaderFooter_Validaion"/>
+<class name="com.Paynear.Portal.Portal_UploadAddInfo"/>
+<class name="com.Paynear.Portal.Portal_Reports"/>
+<class name="com.payswiff.constants.ScrollTest"/>
+-->
+ 
+</classes>
+</test>
+</suite>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sample" parallel="tests" thread-count="4">
+<test  name="sampleClass">
+<classes>
+
+<class name="com.Paynear.Portal.Portal_login"/>
+<class name="com.Paynear.Portal.Portal_BulkMerchantUpload"/>
+<class name="com.FTCash.Panel.Fetch_MerchDetails"/>
+<class name="com.PaySwiff.portalCases.Portal_MerchantLive"/>
+
+<class name="com.PaySwiff.portalCases.Portal_ActLogin"/>
+<class name="com.Portal_validation.Portal_MerchDetail_Validation"/>
+
+
+<!-- 
+
+
+
+
+<class name="com.FTCash.Panel.Fetch_MerchDetails"/>
+
+<class name="com.Paynear.Portal.Portal_BulkMerchantUpload"/>
+<class name="com.Portal_validation.Portal_MerchLiveValid"/>
+
+<class name="com.Portal_validation.Portal_HeaderFooter_Validaion"/>
+<class name="com.Portal_validation.Portal_MyAccount_Validation"/>
+<class name="com.Portal_validation.Portal_MerchPage_Validation"/>
+<class name="com.Portal_validation.Portal_Payment_Validation"/>
+<class name="com.Portal_validation.Portal_Reports"/> 
+
+-->
+ 
+ 
+ 
+ 
+</classes>
+</test>
+</suite> 
