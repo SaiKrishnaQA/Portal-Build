@@ -34,13 +34,6 @@ public class login {
 		
 	}
 	
-	/*@AfterTest
-	public void endSuite() throws Exception{
-		
-		System.out.println("Ends suite");
-		TestResultUtils.extentReportFlush();
-	}*/
-	
 	@Test(priority= 1)
 	public void testMethod() throws Exception{
 		

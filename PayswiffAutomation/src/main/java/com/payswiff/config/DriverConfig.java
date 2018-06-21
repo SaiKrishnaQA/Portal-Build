@@ -48,7 +48,6 @@ public class DriverConfig {
 	private static final Logger LOG = LoggerFactory.getLogger(DriverConfig.class);
 	
 	public static String orientation = configprops.getProperty("Orientation");
-	
 	String OSName;
 
 	// TODO remotesysname
