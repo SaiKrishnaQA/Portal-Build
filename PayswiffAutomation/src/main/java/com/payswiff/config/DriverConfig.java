@@ -51,7 +51,6 @@ public class DriverConfig {
 	
 	
 	String OSName;
-
 	
 
 	// TODO remotesysname
