@@ -5,7 +5,6 @@
 package com.payswiff.util;
 
 import java.io.File;
-import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -17,6 +16,7 @@ import org.openqa.selenium.WebDriver;
 import com.payswiff.constants.Constants;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
+
 
 public class TestResultUtils {
 
@@ -131,7 +131,7 @@ public class TestResultUtils {
 	}
 	public static void extentReportFlush() {
 		try {
-			extent.endTest(logger);
+			//extent.endTest(logger);
 			extent.flush();
 			//extent.close();
 		}catch(Exception e) {

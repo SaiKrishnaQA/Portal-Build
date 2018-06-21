@@ -3,11 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.Portal_validation.Portal_MyAccount_Validation">
+      <class name="com.Login_Portal.login">
         <methods>
-          <include name="MyAccount_UI"/>
+          <include name="setupSuite"/>
+          <include name="endReport"/>
+          <include name="testMethod"/>
         </methods>
-      </class> <!-- com.Portal_validation.Portal_MyAccount_Validation -->
+      </class> <!-- com.Login_Portal.login -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
