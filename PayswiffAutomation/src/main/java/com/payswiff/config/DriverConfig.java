@@ -51,7 +51,6 @@ public class DriverConfig {
 	
 	
 	String OSName;
-	
 
 	// TODO remotesysname
 	public WebDriver setUp(String browserType, String url, String remoteSysName) throws Throwable {

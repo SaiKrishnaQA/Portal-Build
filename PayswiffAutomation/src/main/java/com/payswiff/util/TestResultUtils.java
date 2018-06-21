@@ -92,7 +92,6 @@ public class TestResultUtils {
 	
 	public static void extentReportInitialize() {
 		
-		
 		try {
 			//Creating the extent report in test results folder(extentReportDirectory)
 			//extent.loadConfig(new File("/home/itadmin/Desktop/sai/mystuff/PayswiffAutomation/src/test/resources/testsuites/extent-config.xml"));
