@@ -10,11 +10,6 @@
 <class name="KalScripts.portal_Device_Validation"/>
 <!-- 
 
-
-
-
-
-
 <class name="KalScripts.Merchant_Validation"/>
 <class name="KalScripts.MerchDetail_validations"/>
 <class name="KalScripts.Portal_MyAccount_Validation"/>

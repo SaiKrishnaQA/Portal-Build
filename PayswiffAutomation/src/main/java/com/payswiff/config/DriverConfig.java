@@ -49,7 +49,6 @@ public class DriverConfig {
 	
 	public static String orientation = configprops.getProperty("Orientation");
 	
-	
 	String OSName;
 
 	// TODO remotesysname
